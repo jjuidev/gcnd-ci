@@ -1,0 +1,16 @@
+{
+  "name": "gcnd-ci",
+  "version": "0.1.0",
+  "description": "CI/CD skill for GitHub Actions → Docker Hub → VPS (Nginx/Docker) deployment pipeline",
+  "keywords": ["claude", "skills", "ci-cd", "github-actions", "docker", "nginx", "vps"],
+  "author": "jjuidev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjuidev/gcnd-ci"
+  },
+  "skills": {
+    "directory": ".",
+    "installPath": "gcnd-ci"
+  }
+}
